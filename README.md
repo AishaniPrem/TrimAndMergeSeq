@@ -1,1 +1,1 @@
-# TrimeAndMergeSeq
+# TrimAndMergeSeq
